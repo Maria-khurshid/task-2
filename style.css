@@ -1,0 +1,89 @@
+.btn{
+    background-color: #c63928;
+    padding: 9px 30px;
+    margin:20px;
+    border: none;
+    color: #ffffff;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: #ed4d4f;
+    color: #ffffff;
+    
+    
+}
+
+.start{
+    background-color:#fdd835;
+    color: #3e23b4;
+    border-color: #3e23b4;
+    padding: 8px 30px;
+    margin:20px;
+}
+
+.start:hover{
+    cursor: pointer;
+    background-color: #2a61fb;
+    color: #f7b332;
+    border-color:#3063f5 ;
+}
+.login{
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #5cd0d4, #94d395);
+    color: white;
+    padding: 8px 30px;
+    margin:20px;
+    border-color: transparent;
+}
+.login:hover{
+    cursor: pointer;
+
+}
+.signup{
+    padding: 8px 30px;
+    border-radius: 6px;
+    border-color: darkblue;
+    color: darkblue;
+    background-color: #ffffff;
+    margin:20px;
+}
+.signup:hover{
+    cursor: pointer;
+    background-color: #f7b332;
+    color: #ffffff;
+
+}  
+
+.sub{
+    background-color: #f7b332;
+    color: white;
+    padding: 7px 20px;
+    border-radius: 6px;
+    margin:20px;
+}
+
+,sub:hover{
+    cursor: pointer;
+    background-color: #f6a84a;
+}
+div{
+    margin-top: 200px;
+    margin-left: 200px;
+    float: left;
+    align-content: center;
+
+}
+
+.twitter{
+    border-radius: 25px;
+    color: #025ce2;
+    padding: 10px;
+    border-color:  #025ce2;
+    background-color: #ffffff;
+}
+
+.twitter:hover{
+    cursor: pointer;
+    background-color: #39a2f3;
+    color: #ffffff;
+}
